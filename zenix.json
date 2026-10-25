@@ -1,0 +1,10 @@
+{
+  "description": "سایت شخصی من",
+  "type": "CNAME",
+  "cname": "username.github.io",
+  "proxied": false,
+  "owner": {
+    "username": "نام کاربری گیت‌هاب شما",
+    "email": "ایمیل شما"
+  }
+}
